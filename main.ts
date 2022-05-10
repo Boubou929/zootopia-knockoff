@@ -318,7 +318,7 @@ function Enclosure2 () {
             .31111111111111111111111111111111111111111113.....
             ..333333333333333333333333333333333333333333......
             `, SpriteKind.button)
-        PlayButton.setPosition(79, 75)
+        PlayButton.setPosition(87, 78)
         cursor = sprites.create(img`
             f . . . . . . . . . . . . 
             f f . . . . . . . . . . . 
